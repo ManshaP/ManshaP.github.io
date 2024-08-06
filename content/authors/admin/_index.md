@@ -46,12 +46,12 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=pkCA5hEAAAAJ&h
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-1603-7049
 
 interests:
-  - Artificial Intelligence
-  - Climate Science
   - Clouds and Precipitation
+  - Generative AI
+  - Extreme events
 
 education:
   - area: PhD Atmospheric Physics
