@@ -67,6 +67,9 @@ education:
     institution: University of Cambridge
     date_start: 2019-10-01
     date_end: 2020-07-01
+  - area: BSc Physics
+    institution: Universität Heidelberg
+
     # summary: |
     #   GPA: 3.8/4.0
 
