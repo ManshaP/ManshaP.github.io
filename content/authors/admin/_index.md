@@ -149,15 +149,20 @@ education:
 
 languages:
   - name: English
-    percent: 95
+    description: proficient, C2
+    # percent: 95
   - name: German
-    percent: 100
+    description: native
+    # percent: 100
   - name: French
-    percent: 85
+    description: proficient, C1
+    # percent: 100
   - name: Spanish
-    percent: 75
+    description: advanced, C1
+    # percent: 100  
   - name: Russian
-    percent: 25
+    description: intermediate, B1
+
 # # Awards.
 # #   Add/remove as many awards below as you like.
 # #   Only `title`, `awarder`, and `date` are required.
