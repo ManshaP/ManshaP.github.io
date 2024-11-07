@@ -1,5 +1,4 @@
 ---
-active: false
 title: Example Talk
 
 event: Hugo Blox Builder Conference
