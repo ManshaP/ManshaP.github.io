@@ -147,21 +147,21 @@ education:
 #         percent: 80
 #         icon: camera
 
-languages:
-  - name: English
-    description: proficient, C2
-    # percent: 95
-  - name: German
-    description: native
-    # percent: 100
-  - name: French
-    description: proficient, C1
-    # percent: 100
-  - name: Spanish
-    description: advanced, C1
-    # percent: 100  
-  - name: Russian
-    description: intermediate, B1
+# languages:
+#   - name: English
+#     description: proficient, C2
+#     # percent: 95
+#   - name: German
+#     description: native
+#     # percent: 100
+#   - name: French
+#     description: proficient, C1
+#     # percent: 100
+#   - name: Spanish
+#     description: advanced, C1
+#     # percent: 100  
+#   - name: Russian
+#     description: intermediate, B1
 
 # # Awards.
 # #   Add/remove as many awards below as you like.
